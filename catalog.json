@@ -1,0 +1,17 @@
+{
+  "format": "zendojo-feed",
+  "version": 1,
+  "packs": [
+    {
+      "id": "behavioural-interviews",
+      "title": "Behavioural interviews: stories that land",
+      "description": "Fourteen lessons on preparing for behavioural rounds at product companies: how rounds are scored, building a story bank, answering the common questions, and delivery. Written for SDE2 and SWE3 candidates. All content is original and licensed CC BY-SA 4.0.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/Vraj0109/zen-dojo-courses/main/courses/behavioural-interviews.json",
+      "sha256": "f3d9a7e0a4f6c02a5860790d9be50da1e3cef2e527209a3587689ce0b1c2c0ce",
+      "bytes": 65078,
+      "items": 14,
+      "category": "Interview skills"
+    }
+  ]
+}
